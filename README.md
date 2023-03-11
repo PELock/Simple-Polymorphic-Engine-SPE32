@@ -50,5 +50,6 @@ as well as an extensive testing process.
 
 Bartosz Wójcik
 
-- Visit our site at https://www.pelock.com
-- Twitter https://twitter.com/PELock
+* Visit my site at — https://www.pelock.com
+* Twitter — https://twitter.com/PELock
+* GitHub — https://github.com/PELock
